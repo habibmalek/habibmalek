@@ -5,7 +5,7 @@ Hi there!
 - 👀 I’m interested in Software Development trends.
 - 🌱 I’m currently learning TypeScript, Node js, and SQL.
 - 💞️ I’m looking to collaborate on Object-Relational Mapping (ORM).
-- 📫 How to reach me through **habib.m.othman@gmail.com**
+- 📫 You can reach me through **habib.m.othman@gmail.com**
 
 <!---
 habibmalek/habibmalek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
