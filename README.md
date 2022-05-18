@@ -1,7 +1,7 @@
 Hi there!
 
 
-- 👋 I’m **Habib Othman** working as Back End Developer @ Kiitos.
+- 👋 I’m **Habib Othman** working as Back End Engineer @ Kiitos.
 - 👀 I’m interested in Software Development trends.
 - 🌱 I’m currently learning TypeScript, Node js, and SQL.
 - 💞️ I’m looking to collaborate on Object-Relational Mapping (ORM).
