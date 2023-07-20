@@ -1,10 +1,8 @@
 Hi there!
 
 
-- 👋 I’m Habib Othman - Backend Engineer.
+- 👋 I’m Habib Othman - Software Engineer.
 - 👀 I’m interested in Software Development trends.
-- 🌱 I’m currently learning Flask, Django.
-- 💞️ I’m looking to collaborate on Object-Relational Mapping (ORM).
 
 <br />
 
